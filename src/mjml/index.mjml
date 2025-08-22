@@ -1,0 +1,85 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Become European Citizen by Easy Property Investment</mj-title>
+    <mj-font name="Source Sans 3" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&amp;display=swap"></mj-font>
+    <mj-raw>
+      <meta charset="UTF-8">
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
+      <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
+      <mj-class name="T25-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="300"/>
+      <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
+      <mj-class name="T24-700" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
+      <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="20px" font-weight="400"/>
+      <mj-button padding="0" inner-padding="10px 10px" width="163px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
+      <mj-class name="cT1" color="#2c262d"/>
+      <mj-class name="bgT1" background-color="#2c262d"></mj-class>
+      <mj-class name="cT0" color="#000000"/>
+      <mj-class name="bg0" background-color="#000000"/>
+      <mj-class name="cTW" color="#ffffff"/>
+      <mj-class name="bgW" background-color="#ffffff"/>
+      <mj-class name="cB" color="#73389b"/>
+      <mj-class name="bgB" background-color="#73389b"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#f1f0f0" width="700px">
+    <mj-section padding="24px 30px" mj-class="bgT1">
+      <mj-group>
+        <mj-column>
+          <mj-image align="left" padding="0" width="145px" src="./images/netgearBusiness.png" alt="logo Netgear store en blanc"/>          
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/logo.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-text>The malta permanent residence programme (mprp)</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Residency-by-Investment Programme</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+        <mj-column>
+          <mj-text>A simplified application process with the residence permit issued within 60 days of approval</mj-text>
+          <mj-text>No minimum stay requirements in order to maintain residence status</mj-text>
+          <mj-text>Low capital outlay compared to other EU residence programmes</mj-text>
+          <mj-text>188 Countries Visa Free Travel</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text>Visa-free travel in the European Schengen Area</mj-text>
+          <mj-text>Dependants may be included such as spouse, children under 18, unmarried and non-economically active adult children over 18 years, as well as parents and grand-parents who are primarily dependent on the main applicant</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-column>
+        <mj-button>Register For More Information</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/malte_1.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>EU residency in Malta for your family for EUR 135,000</mj-text>
+        <mj-text>It's the dream o f many - to be able to live in Europe. With the Malta residency program you can now begin the journey.</mj-text>
+        <mj-text>Consider it an affordable "Plan B" providing security for you and your family.</mj-text>
+        <mj-text>With close proximity to the Middle East region, the Malta Permanent Residence Program is ideal for entrepreneurs, investors, and those seeking increased mobility from a stable and business-friendly European country.</mj-text>
+        <mj-button>Register for more information</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
