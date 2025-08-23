@@ -32,10 +32,10 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#f1f0f0" width="700px">
-    <mj-section padding="24px 30px" mj-class="bgT1">
+    <mj-section padding="24px 30px">
       <mj-group>
         <mj-column>
-          <mj-image align="left" padding="0" width="145px" src="./images/netgearBusiness.png" alt="logo Netgear store en blanc"/>          
+          <mj-text>Having trouble seeing the below email? Click here to view it in your browser           </mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -94,7 +94,84 @@
         <mj-text>Once you receive approval, your permanent residency card is issued with a five-year validity (and easily renewed every five years with a new photo).</mj-text>
       </mj-column>
       <mj-column>
-        <mj-image src="./images/malta-2.jpg" alt=""></mj-image>
+        <mj-image src="./images/malte_2.jpg" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Costs and Steps</mj-text>
+        <mj-text>So how do you get started ?</mj-text>
+        <mj-text>The main applicant must be at least 18 years of age.</mj-text>
+        <mj-text>Applicants must show proof of capital of no less than EUR 500,000 (EUR 150,000 of which should be in financial assets).</mj-text>
+        <mj-text>A property purchase of EUR 350,000 (EUR 300,000 in South Malta or Gozo) or a property lease of EUR 12,000 per annum (EUR 10,000 in South Malta or Gozo).</mj-text>
+        <mj-text>You must be a third-country national (i.e. not from an EU or EEA state).</mj-text>
+        <mj-text>Evidence of a clean criminal record.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-table>
+          <tr>
+            <th>Client Investment</th>
+            <th>To KB Group</th>
+            <th>Contribution Fee</th>
+            <th>Donation</th>
+            <th>Rent</th>
+            <th>Total</th>
+          </tr>
+          <tr>
+            <td>On Engagement</td>
+            <td>€15,000</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>€15,000</td>
+          </tr>
+          <tr> 
+            <td>On Submission</td>
+            <td>€10,000</td>
+            <td>€10,000</td>
+            <td>-</td>
+            <td>-</td>
+            <td>€20,000</td>
+          </tr>
+          <tr>
+            <td>On Approval</td>
+            <td>-</td>
+            <td>€88,000</td>
+            <td>€2,000</td>
+            <td>€10,000</td>
+            <td>€100,000</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td>€135,000</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>* Including Rent €10,000</mj-text>
+        <mj-text>** Note: Residency card fee €137.50 per individual.</mj-text>
+        <mj-text>Declaration fee €1000 per application.</mj-text>
+        <mj-text>Health Insurance approx €350 per individual.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button>Register for More Information</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Reach People Direct PO Box 62425, Dubai, UAE</mj-text>
+        <mj-text>You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
+        <mj-text>Click here to modify your preferences or unsubscribe.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
