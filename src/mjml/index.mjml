@@ -53,7 +53,7 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-group>
+      <mj-group width="100%">
         <mj-column>
           <mj-text>A simplified application process with the residence permit issued within 60 days of approval</mj-text>
           <mj-text>No minimum stay requirements in order to maintain residence status</mj-text>
@@ -65,19 +65,19 @@
           <mj-text>Dependants may be included such as spouse, children under 18, unmarried and non-economically active adult children over 18 years, as well as parents and grand-parents who are primarily dependent on the main applicant</mj-text>
         </mj-column>
       </mj-group>
-      <mj-column>
+      <mj-column width="100%">
         <mj-button>Register For More Information</mj-button>
       </mj-column>
-      <mj-column>
+      <mj-column width="100%">
         <mj-image src="./images/malte_1.jpg" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column>
-        <mj-text>EU residency in Malta for your family for EUR 135,000</mj-text>
-        <mj-text>It's the dream o f many - to be able to live in Europe. With the Malta residency program you can now begin the journey.</mj-text>
-        <mj-text>Consider it an affordable "Plan B" providing security for you and your family.</mj-text>
-        <mj-text>With close proximity to the Middle East region, the Malta Permanent Residence Program is ideal for entrepreneurs, investors, and those seeking increased mobility from a stable and business-friendly European country.</mj-text>
+      <mj-column padding="45px">
+        <mj-text align="center" padding="0">EU residency in Malta for your family for EUR 135,000</mj-text>
+        <mj-text align="center" padding="0">It's the dream of many - to be able to live in Europe. With the Malta residency program you can now begin the journey.</mj-text>
+        <mj-text align="center" padding="0">Consider it an affordable "Plan B" providing security for you and your family.</mj-text>
+        <mj-text align="center" padding="0">With close proximity to the Middle East region, the Malta Permanent Residence Program is ideal for entrepreneurs, investors, and those seeking increased mobility from a stable and business-friendly European country.</mj-text>
         <mj-button>Register for more information</mj-button>
       </mj-column>
     </mj-section>
