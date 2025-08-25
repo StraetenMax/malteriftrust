@@ -83,18 +83,18 @@
     </mj-section>
     <mj-section>
       <mj-column padding="35px 45px 40px 45px" width="100%">
-        <mj-text align="center">Benefits of the Malta residency program</mj-text>
-        <mj-text>In addition to being a fairly quick path to residency - just six to eight months for approval - there are many other benefits to this highly sought-after program:</mj-text>
-        <mj-text>Residence in an EU country with visa-free access across Europe's Schengen Area for 90 days out of a 180-day period.</mj-text>
-        <mj-text>The right to reside indefinitely in Malta (one of Europe's safest countries).</mj-text>
-        <mj-text>Investment required for the first five years only (and only after you have secured approval).</mj-text>
-        <mj-text>Family members can be included.</mj-text>
-        <mj-text>No residence requirement to maintain your permanent residence status.</mj-text>
-        <mj-text>English is the official language - and there is no language test.</mj-text>
-        <mj-text>Once you receive approval, your permanent residency card is issued with a five-year validity (and easily renewed every five years with a new photo).</mj-text>
+        <mj-text padding="0" align="center">Benefits of the Malta residency program</mj-text>
+        <mj-text padding="0">In addition to being a fairly quick path to residency - just six to eight months for approval - there are many other benefits to this highly sought-after program:</mj-text>
+        <mj-text padding="0">Residence in an EU country with visa-free access across Europe's Schengen Area for 90 days out of a 180-day period.</mj-text>
+        <mj-text padding="0">The right to reside indefinitely in Malta (one of Europe's safest countries).</mj-text>
+        <mj-text padding="0">Investment required for the first five years only (and only after you have secured approval).</mj-text>
+        <mj-text padding="0">Family members can be included.</mj-text>
+        <mj-text padding="0">No residence requirement to maintain your permanent residence status.</mj-text>
+        <mj-text padding="0">English is the official language - and there is no language test.</mj-text>
+        <mj-text padding="0">Once you receive approval, your permanent residency card is issued with a five-year validity (and easily renewed every five years with a new photo).</mj-text>
       </mj-column>
       <mj-column width="100%">
-        <mj-image src="./images/malte_2.jpg" alt=""></mj-image>
+        <mj-image padding="0" width="650px" src="./images/malte_2.jpg" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section>
