@@ -16,9 +16,9 @@
       <mj-all font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T32-300" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
       <mj-class name="T25-300" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="300"/>
-      <mj-class name="T30-500" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
-      <mj-class name="T24-700" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
-      <mj-class name="T14-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="20px" font-weight="400"/>
+      <mj-class name="T30-700" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="34px" font-weight="700"/>
+      <mj-class name="T16-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="22px" font-weight="400"/>
+      <mj-class name="T15-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 10px" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="capitalize"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
       <mj-class name="bgT1" background-color="#2c262d"></mj-class>
@@ -26,8 +26,10 @@
       <mj-class name="bg0" background-color="#000000"/>
       <mj-class name="cTW" color="#ffffff"/>
       <mj-class name="bgW" background-color="#ffffff"/>
-      <mj-class name="cB" color="#73389b"/>
-      <mj-class name="bgB" background-color="#73389b"/>
+      <mj-class name="cR" color="#D90A7B"/>
+      <mj-class name="bgR" background-color="#D90A7B"/>
+      <mj-class name="cBf" color="#071C35"/>
+      <mj-class name="bgBf" background-color="#071C35"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
@@ -39,30 +41,30 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section>
-      <mj-column width="100%">
+    <mj-section padding="0">
+      <mj-column width="100%" padding="25px 0" mj-class="bgBf">
         <mj-image padding="0" width="117px" src="./images/logo.png" alt=""/>
       </mj-column>
-      <mj-column width="100%">
-        <mj-text align="center">The malta permanent residence programme (mprp)</mj-text>
+      <mj-column width="100%" padding="20px 0" mj-class="bgR">
+        <mj-text padding="0" align="center" mj-class="T30-700 cTW" text-transform="uppercase">The malta permanent residence programme (mprp)</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-text align="center">Residency-by-Investment Programme</mj-text>
+        <mj-text padding="0" align="center">Residency-by-Investment Programme</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-group width="100%">
-        <mj-column>
-          <mj-text padding="0">A simplified application process with the residence permit issued within 60 days of approval</mj-text>
-          <mj-text padding="0">No minimum stay requirements in order to maintain residence status</mj-text>
-          <mj-text padding="0">Low capital outlay compared to other EU residence programmes</mj-text>
-          <mj-text padding="0">188 Countries Visa Free Travel</mj-text>
+        <mj-column width="50%">
+          <mj-text padding="0" mj-class="T16-400">A simplified application process with the residence permit issued within 60 days of approval</mj-text>
+          <mj-text padding="0" mj-class="T16-400">No minimum stay requirements in order to maintain residence status</mj-text>
+          <mj-text padding="0" mj-class="T16-400">Low capital outlay compared to other EU residence programmes</mj-text>
+          <mj-text padding="0" mj-class="T16-400">188 Countries Visa Free Travel</mj-text>
         </mj-column>
-        <mj-column>
-          <mj-text padding="0">Visa-free travel in the European Schengen Area</mj-text>
-          <mj-text padding="0">Dependants may be included such as spouse, children under 18, unmarried and non-economically active adult children over 18 years, as well as parents and grand-parents who are primarily dependent on the main applicant</mj-text>
+        <mj-column width="50%">
+          <mj-text padding="0" mj-class="T16-400">Visa-free travel in the European Schengen Area</mj-text>
+          <mj-text padding="0" mj-class="T16-400">Dependants may be included such as spouse, children under 18, unmarried and non-economically active adult children over 18 years, as well as parents and grand-parents who are primarily dependent on the main applicant</mj-text>
         </mj-column>
       </mj-group>
       <mj-column width="100%">
@@ -75,23 +77,23 @@
     <mj-section>
       <mj-column padding="45px">
         <mj-text align="center" padding="0">EU residency in Malta for your family for EUR 135,000</mj-text>
-        <mj-text align="center" padding="0">It's the dream of many - to be able to live in Europe. With the Malta residency program you can now begin the journey.</mj-text>
-        <mj-text align="center" padding="0">Consider it an affordable "Plan B" providing security for you and your family.</mj-text>
-        <mj-text align="center" padding="0">With close proximity to the Middle East region, the Malta Permanent Residence Program is ideal for entrepreneurs, investors, and those seeking increased mobility from a stable and business-friendly European country.</mj-text>
+        <mj-text align="center" padding="0" mj-class="T16-400">It's the dream of many - to be able to live in Europe. With the Malta residency program you can now begin the journey.</mj-text>
+        <mj-text align="center" padding="0" mj-class="T16-400">Consider it an affordable "Plan B" providing security for you and your family.</mj-text>
+        <mj-text align="center" padding="0" mj-class="T16-400">With close proximity to the Middle East region, the Malta Permanent Residence Program is ideal for entrepreneurs, investors, and those seeking increased mobility from a stable and business-friendly European country.</mj-text>
         <mj-button>Register for more information</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="35px 45px 40px 45px" width="100%">
         <mj-text padding="0" align="center">Benefits of the Malta residency program</mj-text>
-        <mj-text padding="0">In addition to being a fairly quick path to residency - just six to eight months for approval - there are many other benefits to this highly sought-after program:</mj-text>
-        <mj-text padding="0">Residence in an EU country with visa-free access across Europe's Schengen Area for 90 days out of a 180-day period.</mj-text>
-        <mj-text padding="0">The right to reside indefinitely in Malta (one of Europe's safest countries).</mj-text>
-        <mj-text padding="0">Investment required for the first five years only (and only after you have secured approval).</mj-text>
-        <mj-text padding="0">Family members can be included.</mj-text>
-        <mj-text padding="0">No residence requirement to maintain your permanent residence status.</mj-text>
-        <mj-text padding="0">English is the official language - and there is no language test.</mj-text>
-        <mj-text padding="0">Once you receive approval, your permanent residency card is issued with a five-year validity (and easily renewed every five years with a new photo).</mj-text>
+        <mj-text padding="0" mj-class="T16-400">In addition to being a fairly quick path to residency - just six to eight months for approval - there are many other benefits to this highly sought-after program:</mj-text>
+        <mj-text padding="0" mj-class="T16-400">Residence in an EU country with visa-free access across Europe's Schengen Area for 90 days out of a 180-day period.</mj-text>
+        <mj-text padding="0" mj-class="T16-400">The right to reside indefinitely in Malta (one of Europe's safest countries).</mj-text>
+        <mj-text padding="0" mj-class="T16-400">Investment required for the first five years only (and only after you have secured approval).</mj-text>
+        <mj-text padding="0" mj-class="T16-400">Family members can be included.</mj-text>
+        <mj-text padding="0" mj-class="T16-400">No residence requirement to maintain your permanent residence status.</mj-text>
+        <mj-text padding="0" mj-class="T16-400">English is the official language - and there is no language test.</mj-text>
+        <mj-text padding="0" mj-class="T16-400">Once you receive approval, your permanent residency card is issued with a five-year validity (and easily renewed every five years with a new photo).</mj-text>
       </mj-column>
       <mj-column width="100%">
         <mj-image padding="0" width="650px" src="./images/malte_2.jpg" alt=""/>
@@ -101,11 +103,11 @@
       <mj-column>
         <mj-text padding="0">Costs and Steps</mj-text>
         <mj-text padding="0">So how do you get started ?</mj-text>
-        <mj-text padding="0">The main applicant must be at least 18 years of age.</mj-text>
-        <mj-text padding="0">Applicants must show proof of capital of no less than EUR 500,000 (EUR 150,000 of which should be in financial assets).</mj-text>
-        <mj-text padding="0">A property purchase of EUR 350,000 (EUR 300,000 in South Malta or Gozo) or a property lease of EUR 12,000 per annum (EUR 10,000 in South Malta or Gozo).</mj-text>
-        <mj-text padding="0">You must be a third-country national (i.e. not from an EU or EEA state).</mj-text>
-        <mj-text padding="0">Evidence of a clean criminal record.</mj-text>
+        <mj-text padding="0" mj-class="T15-400">The main applicant must be at least 18 years of age.</mj-text>
+        <mj-text padding="0" mj-class="T15-400">Applicants must show proof of capital of no less than EUR 500,000 (EUR 150,000 of which should be in financial assets).</mj-text>
+        <mj-text padding="0" mj-class="T15-400">A property purchase of EUR 350,000 (EUR 300,000 in South Malta or Gozo) or a property lease of EUR 12,000 per annum (EUR 10,000 in South Malta or Gozo).</mj-text>
+        <mj-text padding="0" mj-class="T15-400">You must be a third-country national (i.e. not from an EU or EEA state).</mj-text>
+        <mj-text padding="0" mj-class="T15-400">Evidence of a clean criminal record.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
