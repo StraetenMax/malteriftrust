@@ -15,8 +15,10 @@
     <mj-attributes>
       <mj-all font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T32-300" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
-      <mj-class name="T25-300" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="300"/>
       <mj-class name="T30-700" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="34px" font-weight="700"/>
+      <mj-class name="T28-700" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="28px" line-height="34px" font-weight="700"/>
+      <mj-class name="T28-500" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="28px" line-height="34px" font-weight="500"/>
+      <mj-class name="T20-700" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="34px" font-weight="700"/>
       <mj-class name="T16-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="22px" font-weight="400"/>
       <mj-class name="T15-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 10px" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="capitalize"></mj-button>
@@ -76,7 +78,7 @@
     </mj-section>
     <mj-section>
       <mj-column padding="45px">
-        <mj-text align="center" padding="0">EU residency in Malta for your family for EUR 135,000</mj-text>
+        <mj-text align="center" padding="0" mj-class="T28-700">EU residency in Malta for your family for EUR 135,000</mj-text>
         <mj-text align="center" padding="0" mj-class="T16-400">It's the dream of many - to be able to live in Europe. With the Malta residency program you can now begin the journey.</mj-text>
         <mj-text align="center" padding="0" mj-class="T16-400">Consider it an affordable "Plan B" providing security for you and your family.</mj-text>
         <mj-text align="center" padding="0" mj-class="T16-400">With close proximity to the Middle East region, the Malta Permanent Residence Program is ideal for entrepreneurs, investors, and those seeking increased mobility from a stable and business-friendly European country.</mj-text>
@@ -85,7 +87,7 @@
     </mj-section>
     <mj-section>
       <mj-column padding="35px 45px 40px 45px" width="100%">
-        <mj-text padding="0" align="center">Benefits of the Malta residency program</mj-text>
+        <mj-text padding="0" align="center" mj-class="T28-500">Benefits of the Malta residency program</mj-text>
         <mj-text padding="0" mj-class="T16-400">In addition to being a fairly quick path to residency - just six to eight months for approval - there are many other benefits to this highly sought-after program:</mj-text>
         <mj-text padding="0" mj-class="T16-400">Residence in an EU country with visa-free access across Europe's Schengen Area for 90 days out of a 180-day period.</mj-text>
         <mj-text padding="0" mj-class="T16-400">The right to reside indefinitely in Malta (one of Europe's safest countries).</mj-text>
@@ -101,8 +103,8 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding="0">Costs and Steps</mj-text>
-        <mj-text padding="0">So how do you get started ?</mj-text>
+        <mj-text padding="0" mj-class="T28-700">Costs and Steps</mj-text>
+        <mj-text padding="0" mj-class="T20-700 cR">So how do you get started ?</mj-text>
         <mj-text padding="0" mj-class="T15-400">The main applicant must be at least 18 years of age.</mj-text>
         <mj-text padding="0" mj-class="T15-400">Applicants must show proof of capital of no less than EUR 500,000 (EUR 150,000 of which should be in financial assets).</mj-text>
         <mj-text padding="0" mj-class="T15-400">A property purchase of EUR 350,000 (EUR 300,000 in South Malta or Gozo) or a property lease of EUR 12,000 per annum (EUR 10,000 in South Malta or Gozo).</mj-text>
