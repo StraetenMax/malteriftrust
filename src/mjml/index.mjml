@@ -21,6 +21,7 @@
       <mj-class name="T20-700" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="34px" font-weight="700"/>
       <mj-class name="T16-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="22px" font-weight="400"/>
       <mj-class name="T15-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="400"/>
+      <mj-class name="T14-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="20px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 10px" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="capitalize"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
       <mj-class name="bgT1" background-color="#2c262d"></mj-class>
@@ -116,44 +117,44 @@
       <mj-column>
         <mj-table>
           <tr>
-            <th style="text-align:left">Client Investment</th>
-            <th style="text-align:center">To KB Group</th>
-            <th style="text-align:center">Contribution Fee</th>
-            <th style="text-align:center">Donation</th>
-            <th style="text-align:center">Rent</th>
-            <th style="text-align:center">Total</th>
+            <th style="padding:12px 8px;text-align:left;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Client Investment</th>
+            <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">To KB Group</th>
+            <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Contribution Fee</th>
+            <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Donation</th>
+            <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Rent</th>
+            <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Total</th>
           </tr>
           <tr>
-            <td style="text-align:left">On Engagement</td>
-            <td style="text-align:center">€15,000</td>
-            <td style="text-align:center">-</td>
-            <td style="text-align:center">-</td>
-            <td style="text-align:center">-</td>
-            <td style="text-align:center">€15,000</td>
+            <td style="padding:12px 8px;text-align:left;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">On Engagement</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">€15,000</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">-</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">-</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">-</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">€15,000</td>
           </tr>
           <tr>
-            <td style="text-align:left">On Submission</td>
-            <td style="text-align:center">€10,000</td>
-            <td style="text-align:center">€10,000</td>
-            <td style="text-align:center">-</td>
-            <td style="text-align:center">-</td>
-            <td style="text-align:center">€20,000</td>
+            <td style="padding:12px 8px;text-align:left;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">On Submission</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">€10,000</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">€10,000</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">-</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">-</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">€20,000</td>
           </tr>
           <tr>
-            <td style="text-align:left">On Approval</td>
-            <td style="text-align:center">-</td>
-            <td style="text-align:center">€88,000</td>
-            <td style="text-align:center">€2,000</td>
-            <td style="text-align:center">€10,000</td>
-            <td style="text-align:center">€100,000</td>
+            <td style="padding:12px 8px;text-align:left;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">On Approval</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">-</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">€88,000</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">€2,000</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">€10,000</td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">€100,000</td>
           </tr>
           <tr>
             <td></td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-            <td style="text-align:center">€135,000</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td style="padding:12px 8px;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400">€135,000</td>
           </tr>
         </mj-table>
       </mj-column>
