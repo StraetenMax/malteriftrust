@@ -16,13 +16,17 @@
       <mj-all font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T32-300" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
       <mj-class name="T30-700" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="34px" font-weight="700"/>
+      <mj-class name="T30-500" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="20px" font-weight="500"/>
       <mj-class name="T28-700" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="28px" line-height="34px" font-weight="700"/>
       <mj-class name="T28-500" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="28px" line-height="34px" font-weight="500"/>
       <mj-class name="T20-700" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="34px" font-weight="700"/>
       <mj-class name="T16-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="22px" font-weight="400"/>
+      <mj-class name="T15-900" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="900"/>
       <mj-class name="T15-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="400"/>
       <mj-class name="T14-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="20px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 10px" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="capitalize"></mj-button>
+      <mj-class name="cT2" color="#D8D9DA"/>
+      <mj-class name="bgT2" background-color="#D8D9DA"/>
       <mj-class name="cT1" color="#2c262d"/>
       <mj-class name="bgT1" background-color="#2c262d"></mj-class>
       <mj-class name="cT0" color="#000000"/>
@@ -102,25 +106,60 @@
         <mj-image padding="0" width="650px" src="./images/malte_2.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-wrapper padding="45px">
-      <mj-section>
-        <mj-column>
-          <mj-text padding="0" mj-class="T28-700">Costs and Steps</mj-text>
-          <mj-text padding="0" mj-class="T20-700 cR">So how do you get started ?</mj-text>
-          <mj-text padding="0" mj-class="T15-400">The main applicant must be at least 18 years of age.</mj-text>
-          <mj-text padding="0" mj-class="T15-400">Applicants must show proof of capital of no less than EUR 500,000 (EUR 150,000 of which should be in financial assets).</mj-text>
-          <mj-text padding="0" mj-class="T15-400">A property purchase of EUR 350,000 (EUR 300,000 in South Malta or Gozo) or a property lease of EUR 12,000 per annum (EUR 10,000 in South Malta or Gozo).</mj-text>
-          <mj-text padding="0" mj-class="T15-400">You must be a third-country national (i.e. not from an EU or EEA state).</mj-text>
-          <mj-text padding="0" mj-class="T15-400">Evidence of a clean criminal record.</mj-text>
+    <mj-wrapper padding="40px">
+      <mj-section padding="0">
+        <mj-column width="100%">
+          <mj-text padding="0" padding-bottom="25px" mj-class="T28-700">Costs and Steps</mj-text>
+          <mj-text padding="0" padding-bottom="10px" mj-class="T20-700 cR">So how do you get started ?</mj-text>
         </mj-column>
+        <mj-group width="100%">
+          <mj-column width="5%" padding-bottom="15px">
+            <mj-text padding="0" mj-class="T30-500 cT2">+</mj-text>
+          </mj-column>
+          <mj-column width="95%" padding-bottom="15px">
+            <mj-text padding="0" mj-class="T15-400">The main applicant must be at least 18 years of age.</mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group width="100%">
+          <mj-column width="5%" padding-bottom="15px">
+            <mj-text padding="0" vertical-align="top" mj-class="T30-500 cT2">+</mj-text>
+          </mj-column>
+          <mj-column width="95%" padding-bottom="15px">
+            <mj-text padding="0" mj-class="T15-400">Applicants must show proof of capital of no less than EUR 500,000 (EUR 150,000 of which should be in financial assets).</mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group width="100%">
+          <mj-column width="5%" padding-bottom="15px">
+            <mj-text padding="0" mj-class="T30-500 cT2">+</mj-text>
+          </mj-column>
+          <mj-column width="95%" padding-bottom="15px">
+            <mj-text padding="0" mj-class="T15-400">A property purchase of EUR 350,000 (EUR 300,000 in South Malta or Gozo) or a property lease of EUR 12,000 per annum (EUR 10,000 in South Malta or Gozo).</mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group width="100%">
+          <mj-column width="5%" padding-bottom="15px">
+            <mj-text padding="0" mj-class="T30-500 cT2">+</mj-text>
+          </mj-column>
+          <mj-column width="95%" padding-bottom="15px">
+            <mj-text padding="0" mj-class="T15-400">You must be a third-country national (i.e. not from an EU or EEA state).</mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group width="100%">
+          <mj-column width="5%" padding-bottom="15px">
+            <mj-text padding="0" mj-class="T30-500 cT2">+</mj-text>
+          </mj-column>
+          <mj-column width="95%" padding-bottom="15px">
+            <mj-text padding="0" mj-class="T15-400">Evidence of a clean criminal record.</mj-text>
+          </mj-column>
+        </mj-group>
       </mj-section>
-      <mj-section>
+      <mj-section padding="0">
         <mj-column>
           <mj-table padding="0">
             <tr>
               <th style="padding:12px 8px;text-align:left;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Client Investment</th>
-              <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">To KB Group</th>
-              <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Contribution Fee</th>
+              <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">To KB<br>Group</th>
+              <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Contribution<br>Fee</th>
               <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Donation</th>
               <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Rent</th>
               <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Total</th>
@@ -160,7 +199,7 @@
           </mj-table>
         </mj-column>
       </mj-section>
-      <mj-section>
+      <mj-section padding="0">
         <mj-column width="100%">
           <mj-text padding="0">* Including Rent €10,000</mj-text>
           <mj-text padding="0">** Note: Residency card fee €137.50 per individual.</mj-text>
