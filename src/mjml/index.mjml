@@ -54,7 +54,8 @@
         <mj-image padding="0" width="117px" src="./images/logo.png" alt=""/>
       </mj-column>
       <mj-column width="100%" padding="20px 0" mj-class="bgR">
-        <mj-text padding="0" align="center" mj-class="T30-700 cTW" text-transform="uppercase">The malta permanent residence programme (mprp)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T30-700 cTW" text-transform="uppercase">The malta permanent</mj-text>
+        <mj-text padding="0" align="center" mj-class="T30-700 cTW" text-transform="uppercase">residence programme (mprp)</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -91,7 +92,7 @@
         <mj-button>Register for more information</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0">
       <mj-column padding="35px 45px 40px 45px" width="100%">
         <mj-text padding="0" align="center" mj-class="T28-500">Benefits of the Malta residency program</mj-text>
         <mj-text padding="0" mj-class="T16-400">In addition to being a fairly quick path to residency - just six to eight months for approval - there are many other benefits to this highly sought-after program:</mj-text>
@@ -218,7 +219,7 @@
     </mj-wrapper>
     <mj-section padding="0">
       <mj-column width="100%">
-        <mj-button padding="0" width="100%" inner-padding="22px 22px" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="30px" font-weight="700" text-transform="capitalize" mj-class="bgR cTW">Register for More Information</mj-button>
+        <mj-button padding="0" width="100%" inner-padding="22px 22px" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="30px" font-weight="700" text-transform="capitalize" mj-class="bgR cTW" href="#" border-radius="0px">Register for More Information</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
