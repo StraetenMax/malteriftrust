@@ -26,6 +26,7 @@
       <mj-class name="T15-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="400"/>
       <mj-class name="T14-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="20px" font-weight="400"/>
       <mj-class name="T13-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="20px" font-weight="400"/>
+      <mj-class name="T12-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="18px" font-weight="400"/>
       <mj-class name="cT2" color="#D8D9DA"/>
       <mj-class name="bgT2" background-color="#D8D9DA"/>
       <mj-class name="cT1" color="#2c262d"/>
@@ -42,12 +43,10 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#ffffff" width="650px">
-    <mj-section padding="24px 30px">
-      <mj-group>
-        <mj-column>
-          <mj-text>Having trouble seeing the below email? Click here to view it in your browser         </mj-text>
-        </mj-column>
-      </mj-group>
+    <mj-section padding="16px 0px">
+      <mj-column>
+        <mj-text align="center" padding="0" mj-class="T12-400" font-weight="700">Having trouble seeing the below email? Click here to view it in your browser         </mj-text>
+      </mj-column>
     </mj-section>
     <mj-section padding="0">
       <mj-column width="100%" padding="25px 0" mj-class="bgBf">
@@ -301,9 +300,9 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding="0" align="center">Reach People Direct PO Box 62425, Dubai, UAE</mj-text>
-        <mj-text padding="0" align="center">You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
-        <mj-text padding="0" align="center">Click here to modify your preferences or unsubscribe.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12-400" color="#666666">Reach People Direct PO Box 62425, Dubai, UAE</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12-400" color="#666666">You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12-400" color="#666666">Click here to modify your preferences or unsubscribe.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
