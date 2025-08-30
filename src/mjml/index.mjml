@@ -25,7 +25,6 @@
       <mj-class name="T15-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="400"/>
       <mj-class name="T14-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="20px" font-weight="400"/>
       <mj-class name="T13-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="20px" font-weight="400"/>
-      <mj-button padding="0" inner-padding="10px 10px" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="capitalize"></mj-button>
       <mj-class name="cT2" color="#D8D9DA"/>
       <mj-class name="bgT2" background-color="#D8D9DA"/>
       <mj-class name="cT1" color="#2c262d"/>
@@ -92,64 +91,66 @@
         <mj-button>Register for more information</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section padding="35px 45px 40px 45px" mj-class="bgB">
-      <mj-column width="100%">
-        <mj-text padding="0" align="center" mj-class="T28-500">Benefits of the Malta residency program</mj-text>
+    <mj-section padding="35px 40px 40px 40px" mj-class="bgBf">
+      <mj-column width="100%" padding-bottom="25px">
+        <mj-text padding="0" align="center" mj-class="T28-500" color="#FFFFFF">Benefits of the Malta residency program</mj-text>
       </mj-column>
-      <mj-column width="100%">
-        <mj-text padding="0" mj-class="T16-400">In addition to being a fairly quick path to residency - just six to eight months for approval - there are many other benefits to this highly sought-after program:</mj-text>
+      <mj-column width="100%" padding-bottom="20px">
+        <mj-text padding="0" mj-class="T16-400" color="#CDC5C5">In addition to being a fairly quick path to residency - just six to eight months for approval - there are many other benefits to this highly sought-after program:</mj-text>
       </mj-column>
       <mj-group width="100%">
-        <mj-column width="5%">
+        <mj-column width="5%" padding-bottom="15px">
           <mj-text padding="0" mj-class="T30-500 cR">+</mj-text>
         </mj-column>
-        <mj-column width="95%">
-          <mj-text padding="0" mj-class="T16-400">Residence in an EU country with visa-free access across Europe's Schengen Area for 90 days out of a 180-day period.</mj-text>
+        <mj-column width="95%" padding-bottom="15px">
+          <mj-text padding="0" mj-class="T16-400" color="#CDC5C5">Residence in an EU country with visa-free access across Europe's Schengen Area for 90 days out of a 180-day period.</mj-text>
         </mj-column>
       </mj-group>
       <mj-group width="100%">
-        <mj-column width="5%">
+        <mj-column width="5%" padding-bottom="15px">
           <mj-text padding="0" mj-class="T30-500 cR">+</mj-text>
         </mj-column>
-        <mj-column width="95%">
-          <mj-text padding="0" mj-class="T16-400">The right to reside indefinitely in Malta (one of Europe's safest countries).</mj-text>
+        <mj-column width="95%" padding-bottom="15px">
+          <mj-text padding="0" mj-class="T16-400" color="#CDC5C5">The right to reside indefinitely in Malta (one of Europe's safest countries).</mj-text>
         </mj-column>
       </mj-group>
       <mj-group width="100%">
-        <mj-column width="5%">
+        <mj-column width="5%" padding-bottom="15px">
           <mj-text padding="0" mj-class="T30-500 cR">+</mj-text>
         </mj-column>
-        <mj-column width="95%">
-          <mj-text padding="0" mj-class="T16-400">Investment required for the first five years only (and only after you have secured approval).</mj-text>
+        <mj-column width="95%" padding-bottom="15px">
+          <mj-text padding="0" mj-class="T16-400" color="#CDC5C5">Investment required for the first five years only (and only after you have secured approval).</mj-text>
         </mj-column>
       </mj-group>
       <mj-group width="100%">
-        <mj-column width="5%">
+        <mj-column width="5%" padding-bottom="15px">
           <mj-text padding="0" mj-class="T30-500 cR">+</mj-text>
         </mj-column>
-        <mj-column width="95%">
-          <mj-text padding="0" mj-class="T16-400">Family members can be included.</mj-text>
+        <mj-column width="95%" padding-bottom="15px">
+          <mj-text padding="0" mj-class="T16-400" color="#CDC5C5">Family members can be included.</mj-text>
         </mj-column>
       </mj-group>
       <mj-group width="100%">
-        <mj-column width="5%">
+        <mj-column width="5%" padding-bottom="15px">
           <mj-text padding="0" mj-class="T30-500 cR">+</mj-text>
         </mj-column>
-        <mj-column width="95%">
-          <mj-text padding="0" mj-class="T16-400">No residence requirement to maintain your permanent residence status.</mj-text>
+        <mj-column width="95%" padding-bottom="15px">
+          <mj-text padding="0" mj-class="T16-400" color="#CDC5C5">No residence requirement to maintain your permanent residence status.</mj-text>
         </mj-column>
       </mj-group>
       <mj-group width="100%">
-        <mj-column width="5%">
+        <mj-column width="5%" padding-bottom="55px">
           <mj-text padding="0" mj-class="T30-500 cR">+</mj-text>
         </mj-column>
-        <mj-column width="95%">
-          <mj-text padding="0" mj-class="T16-400">English is the official language - and there is no language test.</mj-text>
+        <mj-column width="95%" padding-bottom="55px">
+          <mj-text padding="0" mj-class="T16-400" color="#CDC5C5">English is the official language - and there is no language test.</mj-text>
         </mj-column>
       </mj-group>
       <mj-column width="100%">
-        <mj-text padding="0" mj-class="T16-400">Once you receive approval, your permanent residency card is issued with a five-year validity (and easily renewed every five years with a new photo).</mj-text>
+        <mj-text padding="0" mj-class="T16-400" color="#CDC5C5">Once you receive approval, your permanent residency card is issued with a five-year validity (and easily renewed every five years with a new photo).</mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section padding="0">
       <mj-column width="100%">
         <mj-image padding="0" width="650px" src="./images/malte_2.jpg" alt=""/>
       </mj-column>
