@@ -65,7 +65,7 @@
     <mj-wrapper padding="25px 45px 0 45px">
       <mj-section border-top="1px solid #071c35" border-left="1px solid #071c35" border-right="1px solid #071c35" padding="26px 7px 40px 7px">
         <mj-column width="50%" padding="8px">
-          <mj-table padding="0">
+          <mj-table padding="0" table-layout="auto">
             <tr>
               <td width="10%" align="left" style="padding:4px 0 15px 0;vertical-align:top;">&#11044;</td>
               <td width="90%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal">A simplified application process with the residence permit issued within 60 days of approval</td>
@@ -163,51 +163,33 @@
         <mj-column width="100%">
           <mj-text padding="0" padding-bottom="25px" mj-class="T28-700">Costs and Steps</mj-text>
           <mj-text padding="0" padding-bottom="10px" mj-class="T20-700 cR">So how do you get started ?</mj-text>
+          <mj-table padding="0" table-layout="auto">
+            <tr>
+              <td style="width:5%;padding:0 10px 15px 0;vertical-align:top;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:30px;line-height:20px;font-weight:500;color:#D8D9DA;">+</td>
+              <td style="width:95%;padding:0;padding-bottom:15px;vertical-align:top;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:15px;line-height:20px;font-weight:400;color:#071c35;">The main applicant must be at least 18 years of age.</td>
+            </tr>
+            <tr>
+              <td style="width:5%;padding:0 10px 15px 0;vertical-align:top;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:30px;line-height:20px;font-weight:500;color:#D8D9DA;">+</td>
+              <td style="width:95%;padding:0;padding-bottom:15px;vertical-align:top;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:15px;line-height:20px;font-weight:400;color:#071c35;">Applicants must show proof of capital of no less than EUR 500,000 (EUR 150,000 of which should be in financial assets).</td>
+            </tr>
+            <tr>
+              <td style="width:5%;padding:0 10px 15px 0;vertical-align:top;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:30px;line-height:20px;font-weight:500;color:#D8D9DA;">+</td>
+              <td style="width:95%;padding:0;padding-bottom:15px;vertical-align:top;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:15px;line-height:20px;font-weight:400;color:#071c35;">A property purchase of EUR 350,000 (EUR 300,000 in South Malta or Gozo) or a property lease of EUR 12,000 per annum (EUR 10,000 in South Malta or Gozo).</td>
+            </tr>
+            <tr>
+              <td style="width:5%;padding:0 10px 15px 0;vertical-align:top;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:30px;line-height:20px;font-weight:500;color:#D8D9DA;">+</td>
+              <td style="width:95%;padding:0;padding-bottom:15px;vertical-align:top;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:15px;line-height:20px;font-weight:400;color:#071c35;">You must be a third-country national (i.e. not from an EU or EEA state).</td>
+            </tr>
+            <tr>
+              <td style="width:5%;padding:0 10px 15px 0;vertical-align:top;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:30px;line-height:20px;font-weight:500;color:#D8D9DA;">+</td>
+              <td style="width:95%;padding:0;padding-bottom:15px;vertical-align:top;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:15px;line-height:20px;font-weight:400;color:#071c35;">Evidence of a clean criminal record.</td>
+            </tr>
+          </mj-table>
         </mj-column>
-        <mj-group width="100%">
-          <mj-column width="5%" padding-bottom="15px">
-            <mj-text padding="0" mj-class="T30-500 cT2">+</mj-text>
-          </mj-column>
-          <mj-column width="95%" padding-bottom="15px">
-            <mj-text padding="0" mj-class="T15-400">The main applicant must be at least 18 years of age.</mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="5%" padding-bottom="15px">
-            <mj-text padding="0" vertical-align="top" mj-class="T30-500 cT2">+</mj-text>
-          </mj-column>
-          <mj-column width="95%" padding-bottom="15px">
-            <mj-text padding="0" mj-class="T15-400">Applicants must show proof of capital of no less than EUR 500,000 (EUR 150,000 of which should be in financial assets).</mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="5%" padding-bottom="15px">
-            <mj-text padding="0" mj-class="T30-500 cT2">+</mj-text>
-          </mj-column>
-          <mj-column width="95%" padding-bottom="15px">
-            <mj-text padding="0" mj-class="T15-400">A property purchase of EUR 350,000 (EUR 300,000 in South Malta or Gozo) or a property lease of EUR 12,000 per annum (EUR 10,000 in South Malta or Gozo).</mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="5%" padding-bottom="15px">
-            <mj-text padding="0" mj-class="T30-500 cT2">+</mj-text>
-          </mj-column>
-          <mj-column width="95%" padding-bottom="15px">
-            <mj-text padding="0" mj-class="T15-400">You must be a third-country national (i.e. not from an EU or EEA state).</mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="5%" padding-bottom="15px">
-            <mj-text padding="0" mj-class="T30-500 cT2">+</mj-text>
-          </mj-column>
-          <mj-column width="95%" padding-bottom="15px">
-            <mj-text padding="0" mj-class="T15-400">Evidence of a clean criminal record.</mj-text>
-          </mj-column>
-        </mj-group>
       </mj-section>
       <mj-section padding="0">
         <mj-column>
-          <mj-table padding="0">
+          <mj-table padding="0" table-layout="auto">
             <tr>
               <th style="padding:12px 8px;text-align:left;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">Client Investment</th>
               <th style="padding:12px 0;text-align:center;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-style:normal;font-size:14px;line-height:20px;font-weight:400;color:#434343;background-color:#E0E0E0;">To KB<br>Group</th>
