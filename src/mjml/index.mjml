@@ -43,7 +43,7 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#ffffff" width="650px">
-    <mj-section padding="16px 0px">
+    <mj-section padding="16px 10px">
       <mj-column>
         <mj-text align="center" padding="0" mj-class="T12-400" font-weight="700">Having trouble seeing the below email? Click here to view it in your browser         </mj-text>
       </mj-column>
@@ -254,7 +254,7 @@
         <mj-button padding="0" width="100%" inner-padding="22px 22px" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="30px" font-weight="700" text-transform="capitalize" mj-class="bgR cTW" href="#" border-radius="0px">Register for More Information</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="20px 10px">
       <mj-column>
         <mj-text padding="0" align="center" mj-class="T12-400" color="#666666">Reach People Direct PO Box 62425, Dubai, UAE</mj-text>
         <mj-text padding="0" align="center" mj-class="T12-400" color="#666666">You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
