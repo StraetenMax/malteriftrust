@@ -48,7 +48,7 @@
         <mj-text align="center" padding="0" mj-class="T12-400" font-weight="700">Having trouble seeing the below email? Click here to view it in your browser         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0">
+    <mj-section padding="0" mj-class="bgW">
       <mj-column width="100%" padding="25px 0" mj-class="bgBf">
         <mj-image padding="0" width="117px" src="./images/logo.png" alt=""/>
       </mj-column>
@@ -57,12 +57,12 @@
         <mj-text padding="0" align="center" mj-class="T30-700 cTW" text-transform="uppercase">residence programme (mprp)</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0">
+    <mj-section padding="0" mj-class="bgW">
       <mj-column width="100%" padding="0" padding-top="25px">
         <mj-text padding="0" align="center" mj-class="T22-500">Residency-by-Investment Programme</mj-text>
       </mj-column>
     </mj-section>
-    <mj-wrapper padding="25px 45px 0 45px">
+    <mj-wrapper padding="25px 45px 0 45px" mj-class="bgW">
       <mj-section border-top="1px solid #071c35" border-left="1px solid #071c35" border-right="1px solid #071c35" padding="26px 7px 40px 7px">
         <mj-column width="50%" padding="8px">
           <mj-table padding="0" table-layout="auto">
@@ -107,7 +107,7 @@
         <mj-image padding="0" width="650px" src="./images/malte_1.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section padding="0">
+    <mj-section padding="0" mj-class="bgW">
       <mj-column padding="45px 40px">
         <mj-text align="center" padding="0" mj-class="T28-700" color="#071c35">EU residency in Malta for your family for EUR 135,000</mj-text>
         <mj-text align="center" padding="0" padding-top="35px" mj-class="T16-400" color="#434343">It's the dream of many - to be able to live in Europe. With the Malta residency program you can now begin the journey.</mj-text>
