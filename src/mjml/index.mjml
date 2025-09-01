@@ -254,9 +254,9 @@
     </mj-section>
     <mj-section padding="20px 10px">
       <mj-column>
-        <mj-text padding="0" align="center" mj-class="T12-400" color="#666666">Reach People Direct PO Box 62425, Dubai, UAE</mj-text>
-        <mj-text padding="0" align="center" mj-class="T12-400" color="#666666">You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
-        <mj-text padding="0" align="center" mj-class="T12-400" color="#666666">Click here to modify your preferences or unsubscribe.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12-400 cT3">Reach People Direct PO Box 62425, Dubai, UAE</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12-400 cT3">You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12-400 cT3">Click here to modify your preferences or unsubscribe.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
