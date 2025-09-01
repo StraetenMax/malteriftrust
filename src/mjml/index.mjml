@@ -47,7 +47,7 @@
   <mj-body background-color="#ffffff" width="650px">
     <mj-section padding="16px 10px">
       <mj-column>
-        <mj-text align="center" padding="0" mj-class="T12-400" font-weight="700">Having trouble seeing the below email? Click here to view it in your browser         </mj-text>
+        <mj-text align="center" padding="0" mj-class="T12-400 cT0" font-weight="700">Having trouble seeing the below email? <a style="color:#000000" href="#">Click here to view it in your browser</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
