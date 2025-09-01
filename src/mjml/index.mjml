@@ -27,6 +27,7 @@
       <mj-class name="T14-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="20px" font-weight="400"/>
       <mj-class name="T13-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="20px" font-weight="400"/>
       <mj-class name="T12-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="18px" font-weight="400"/>
+      <mj-class name="cT3" color="#666666"/>
       <mj-class name="cT2" color="#D8D9DA"/>
       <mj-class name="bgT2" background-color="#D8D9DA"/>
       <mj-class name="cT1" color="#2c262d"/>
@@ -59,7 +60,7 @@
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
       <mj-column width="100%" padding="0" padding-top="25px">
-        <mj-text padding="0" align="center" mj-class="T22-500">Residency-by-Investment Programme</mj-text>
+        <mj-text padding="0" align="center" mj-class="T22-500 cBf">Residency-by-Investment Programme</mj-text>
       </mj-column>
     </mj-section>
     <mj-wrapper padding="25px 45px 0 45px" mj-class="bgW">
@@ -67,32 +68,32 @@
         <mj-column width="50%" padding="8px">
           <mj-table padding="0" table-layout="auto">
             <tr>
-              <td width="10%" align="left" style="padding:4px 0 15px 0;vertical-align:top;">&#11044;</td>
-              <td width="90%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal">A simplified application process with the residence permit issued within 60 days of approval</td>
+              <td width="10%" align="left" style="padding:4px 0 15px 0;vertical-align:top;color:#00263A">&#11044;</td>
+              <td width="90%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal;color:#00263A">A simplified application process with the residence permit issued within 60 days of approval</td>
             </tr>
             <tr>
-              <td width="5%" align="left" style="padding:4px 0 15px 0;vertical-align:top;">&#11044;</td>
-              <td width="95%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal">No minimum stay requirements in order to maintain residence status</td>
+              <td width="5%" align="left" style="padding:4px 0 15px 0;vertical-align:top;color:#00263A">&#11044;</td>
+              <td width="95%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal;color:#00263A">No minimum stay requirements in order to maintain residence status</td>
             </tr>
             <tr>
-              <td width="5%" align="left" style="padding:4px 0 15px 0;vertical-align:top;">&#11044;</td>
-              <td width="95%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal">Low capital outlay compared to other EU residence programmes</td>
-            </tr>
-            <tr>
-              <td width="5%" align="left" style="padding:4px 0 15px 0;vertical-align:top;">&#11044;</td>
-              <td width="95%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal">188 Countries Visa Free Travel</td>
+              <td width="5%" align="left" style="padding:4px 0 15px 0;vertical-align:top;color:#00263A">&#11044;</td>
+              <td width="95%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal;color:#00263A">Low capital outlay compared to other EU residence programmes</td>
             </tr>
           </mj-table>
         </mj-column>
         <mj-column width="50%" padding="8px">
           <mj-table padding="0">
             <tr>
-              <td width="10%" align="left" style="padding:4px 0 15px 0;vertical-align:top;">&#11044;</td>
-              <td width="90%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal">Visa-free travel in the European Schengen Area</td>
+              <td width="5%" align="left" style="padding:4px 0 15px 0;vertical-align:top;color:#00263A">&#11044;</td>
+              <td width="95%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal;color:#00263A">188 Countries Visa Free Travel</td>
             </tr>
             <tr>
-              <td width="10%" align="left" style="padding:4px 0 15px 0;vertical-align:top;">&#11044;</td>
-              <td width="90%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal">Dependants may be included such as spouse, children under 18, unmarried and non-economically active adult children over 18 years, as well as parents and grand-parents who are primarily dependent on the main applicant</td>
+              <td width="10%" align="left" style="padding:4px 0 15px 0;vertical-align:top;color:#00263A">&#11044;</td>
+              <td width="90%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal;color:#00263A">Visa-free travel in the European Schengen Area</td>
+            </tr>
+            <tr>
+              <td width="10%" align="left" style="padding:4px 0 15px 0;vertical-align:top;color:#00263A">&#11044;</td>
+              <td width="90%" style="padding:4px 0 15px 0;font-family:'Montserrat', Arial, Helvetica, sans-serif;font-size:15px;font-weight:400;line-height:20px;font-style:normal;color:#00263A">Dependants may be included such as spouse, children under 18, unmarried and non-economically active adult children over 18 years, as well as parents and grand-parents who are primarily dependent on the main applicant</td>
             </tr>
           </mj-table>
         </mj-column>
