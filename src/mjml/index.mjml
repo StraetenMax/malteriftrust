@@ -27,7 +27,8 @@
       <mj-class name="T14-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="20px" font-weight="400"/>
       <mj-class name="T13-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="20px" font-weight="400"/>
       <mj-class name="T12-400" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="18px" font-weight="400"/>
-      <mj-class name="cT3" color="#666666"/>
+      <mj-class name="cT4" color="#434343"/>
+      <mj-class name="cT3" color="#050404ff"/>
       <mj-class name="cT2" color="#D8D9DA"/>
       <mj-class name="bgT2" background-color="#D8D9DA"/>
       <mj-class name="cT1" color="#2c262d"/>
@@ -110,16 +111,16 @@
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
       <mj-column padding="45px 40px">
-        <mj-text align="center" padding="0" mj-class="T28-700" color="#071c35">EU residency in Malta for your family for EUR 135,000</mj-text>
-        <mj-text align="center" padding="0" padding-top="35px" mj-class="T16-400" color="#434343">It's the dream of many - to be able to live in Europe. With the Malta residency program you can now begin the journey.</mj-text>
-        <mj-text align="center" padding="0" padding-top="10px" mj-class="T16-400" color="#434343">Consider it an affordable "Plan B" providing security for you and your family.</mj-text>
-        <mj-text align="center" padding="10px 0 40px 0" mj-class="T16-400" color="#434343">With close proximity to the Middle East region, the Malta Permanent Residence Program is ideal for entrepreneurs, investors, and those seeking increased mobility from a stable and business-friendly European country.</mj-text>
+        <mj-text align="center" padding="0" mj-class="T28-700 cBf">EU residency in Malta for your family for EUR 135,000</mj-text>
+        <mj-text align="center" padding="0" padding-top="35px" mj-class="T16-400 cT4">It's the dream of many - to be able to live in Europe. With the Malta residency program you can now begin the journey.</mj-text>
+        <mj-text align="center" padding="0" padding-top="10px" mj-class="T16-400 cT4">Consider it an affordable "Plan B" providing security for you and your family.</mj-text>
+        <mj-text align="center" padding="10px 0 40px 0" mj-class="T16-400 cT4">With close proximity to the Middle East region, the Malta Permanent Residence Program is ideal for entrepreneurs, investors, and those seeking increased mobility from a stable and business-friendly European country.</mj-text>
         <mj-button padding="0" width="100%" inner-padding="13px 13px" font-family="&quot;Montserrat&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="18px" font-weight="500" text-transform="capitalize" mj-class="bgR cTW" href="#" border-radius="0px">Register for more information</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="35px 40px 40px 40px" mj-class="bgBf">
       <mj-column width="100%" padding-bottom="25px">
-        <mj-text padding="0" align="center" mj-class="T28-500" color="#FFFFFF">Benefits of the Malta residency program</mj-text>
+        <mj-text padding="0" align="center" mj-class="T28-500 cTW">Benefits of the Malta residency program</mj-text>
       </mj-column>
       <mj-column width="100%" padding-bottom="20px">
         <mj-text padding="0" padding-bottom="20px" mj-class="T16-400" color="#CDC5C5">In addition to being a fairly quick path to residency - just six to eight months for approval - there are many other benefits to this highly sought-after program:</mj-text>
